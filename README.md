@@ -15,15 +15,15 @@ on how to get the latest version for your computer.
 
 2. Extract it on to the computer experiencing Teams issues.
 
-       ![Extract](https://user-images.githubusercontent.com/79993173/109880924-802db980-7c45-11eb-9897-42921631dd24.png)
+     ![Extract](https://user-images.githubusercontent.com/79993173/109880924-802db980-7c45-11eb-9897-42921631dd24.png)
 
 3. Run the CollectTeamsClientData.ps1 script, either by double clicking on the file, or by right clicking on it and choosing "Run with PowerShell".
 
-       ![RunWithPowerShell](https://user-images.githubusercontent.com/79993173/109881134-c256fb00-7c45-11eb-929a-ef73a7e3cff4.png)
+     ![RunWithPowerShell](https://user-images.githubusercontent.com/79993173/109881134-c256fb00-7c45-11eb-929a-ef73a7e3cff4.png)
 
 4. Once the script is complete, it should produce a ZIP file in the same folder as the script.
 
-       ![ZipFile](https://user-images.githubusercontent.com/79993173/109881493-65a81000-7c46-11eb-8f8f-b5d42f678272.png)
+     ![ZipFile](https://user-images.githubusercontent.com/79993173/109881493-65a81000-7c46-11eb-8f8f-b5d42f678272.png)
 
 # Advanced Usage
 ```
