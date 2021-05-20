@@ -45,6 +45,7 @@ It will list each file and registry key that it collects, and each directory it 
 
 It also collects:
 - General computer information (Get-ComputerInfo)
+- Time, culture, and language information (Get-TimeZone, Get-WinSystemLocale, Get-WinUserLanguageList, Get-Culture)
 - Display information (Get-WmiObject win32_videocontroller)
 - Drive information (Get-PSDrive, Get-PhysicalDisk, Get-Volume)
 - Network information (Get-NetAdapter, Get-NetIPAddress)
